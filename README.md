@@ -4,7 +4,7 @@
 
 <div align="center"><h1>Mark My Words: Dangers of Watermarked Images in ImageNet</h1>
 <h5> Kirill Bykov, Klaus-Robert Müller and Marina M.-C. Höhne</h5>
-Accepted Accepted to the ICLR 2023 TrustML-(un)Limited workshop
+Accepted to the ICLR 2023 TrustML-(un)Limited workshop
 <h5 href="https://arxiv.org/abs/2206.04530">Paper link</h5></div>
 
 [comment]: <> (<h5 href="https://google.com">Paper link</h5></div>)
